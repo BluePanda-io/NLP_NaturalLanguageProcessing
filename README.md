@@ -12,3 +12,6 @@ In this project we create multiple Natural Language Processing files, focusing o
 
 # Also Machine Learning Models were developed 
 The above preprocessing was used to recognize the sentiment of Tweets and movie reviews
+
+
+(note: Courses that was used as the educational material of NLP: Natural Language Processing Specialization)
